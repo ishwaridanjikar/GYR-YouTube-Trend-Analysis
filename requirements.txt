@@ -1,4 +1,4 @@
-﻿Flask==3.1.2
+Flask==3.1.2
 pandas==2.3.3
 numpy==2.4.1
 matplotlib==3.10.8
@@ -6,5 +6,5 @@ seaborn==0.13.2
 beautifulsoup4==4.14.3
 reportlab==4.4.9
 pillow==12.1.0
-gunicorn
+gunicorn==21.2.0
 
