@@ -2,4 +2,11 @@ venv/
 __pycache__/
 *.pyc
 .env
+
+# datasets
+Youtube dataset/
+
+# generated files
+static/*.png
+static/*.csv
 static/report.pdf
